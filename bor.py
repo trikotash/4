@@ -1,6 +1,6 @@
 
 import numpy as np
-from Fields import *
+from Pola import Electromagneticfield, Partcile
 import matplotlib.pyplot as plt
 
 
